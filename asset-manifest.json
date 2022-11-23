@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/FireBaseFlipkart-React/static/css/main.c176f300.chunk.css",
+    "main.js": "/FireBaseFlipkart-React/static/js/main.4a30925d.chunk.js",
+    "main.js.map": "/FireBaseFlipkart-React/static/js/main.4a30925d.chunk.js.map",
+    "runtime-main.js": "/FireBaseFlipkart-React/static/js/runtime-main.83a89af2.js",
+    "runtime-main.js.map": "/FireBaseFlipkart-React/static/js/runtime-main.83a89af2.js.map",
+    "static/css/2.d4dfd184.chunk.css": "/FireBaseFlipkart-React/static/css/2.d4dfd184.chunk.css",
+    "static/js/2.4ab48c5b.chunk.js": "/FireBaseFlipkart-React/static/js/2.4ab48c5b.chunk.js",
+    "static/js/2.4ab48c5b.chunk.js.map": "/FireBaseFlipkart-React/static/js/2.4ab48c5b.chunk.js.map",
+    "index.html": "/FireBaseFlipkart-React/index.html",
+    "precache-manifest.8903e31c8ec25f291f392eb514f27dd7.js": "/FireBaseFlipkart-React/precache-manifest.8903e31c8ec25f291f392eb514f27dd7.js",
+    "service-worker.js": "/FireBaseFlipkart-React/service-worker.js",
+    "static/css/2.d4dfd184.chunk.css.map": "/FireBaseFlipkart-React/static/css/2.d4dfd184.chunk.css.map",
+    "static/css/main.c176f300.chunk.css.map": "/FireBaseFlipkart-React/static/css/main.c176f300.chunk.css.map",
+    "static/js/2.4ab48c5b.chunk.js.LICENSE.txt": "/FireBaseFlipkart-React/static/js/2.4ab48c5b.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/FireBaseFlipkart-React/static/media/1.67ebd076.jpg",
+    "static/media/10.png": "/FireBaseFlipkart-React/static/media/10.d6cdaa5d.png",
+    "static/media/2.png": "/FireBaseFlipkart-React/static/media/2.70673495.png",
+    "static/media/3.png": "/FireBaseFlipkart-React/static/media/3.5efddf54.png",
+    "static/media/4.png": "/FireBaseFlipkart-React/static/media/4.3200642c.png",
+    "static/media/5.png": "/FireBaseFlipkart-React/static/media/5.f8c7acd4.png",
+    "static/media/52.png": "/FireBaseFlipkart-React/static/media/52.44d3808d.png",
+    "static/media/53.png": "/FireBaseFlipkart-React/static/media/53.1e84ba67.png",
+    "static/media/54.png": "/FireBaseFlipkart-React/static/media/54.ceaeb865.png",
+    "static/media/6.png": "/FireBaseFlipkart-React/static/media/6.419cc2c8.png",
+    "static/media/7.png": "/FireBaseFlipkart-React/static/media/7.6f7cda37.png",
+    "static/media/8.png": "/FireBaseFlipkart-React/static/media/8.433a7894.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83a89af2.js",
+    "static/css/2.d4dfd184.chunk.css",
+    "static/js/2.4ab48c5b.chunk.js",
+    "static/css/main.c176f300.chunk.css",
+    "static/js/main.4a30925d.chunk.js"
+  ]
+}
